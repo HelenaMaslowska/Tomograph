@@ -11,6 +11,7 @@ Hi! We created a project which explains how to convert image into a sinogram and
 
 ## Slider
 One of the most interesting part of an experiment. Move progress bar to check how is Radon transform actually works! I wish I don't spoiler too much...
+
 ![image](https://user-images.githubusercontent.com/44245185/226763895-f8976e3e-b6df-4909-b566-7bd1bd717af2.png)
 
 
