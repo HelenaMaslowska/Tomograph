@@ -1,4 +1,5 @@
 # Tomograph
+Hi! We created a project which explains how to convert image into sinogram and vice versa. [Here](https://github.com/HelenaMaslowska/Tomograph/blob/main/tk.ipynb) is main code, enjoy!
 
 ## Used libraries
 * numpy
