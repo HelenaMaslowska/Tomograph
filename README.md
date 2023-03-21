@@ -1,11 +1,13 @@
 # Tomograph
-Hi! We created a project which explains how to convert image into sinogram and vice versa. [Here](https://github.com/HelenaMaslowska/Tomograph/blob/main/tk.ipynb) is main code, enjoy!
+Hi! We created a project which explains how to convert image into a sinogram and vice versa with filtering, normalization and visualization. You can see the progress by moving the progress bar and saving to a DICOM file! [Here](https://github.com/HelenaMaslowska/Tomograph/blob/main/tk.ipynb) is a main code, enjoy!
 
 ## Used libraries
-* numpy
-* scikit-image
-* matplotlib
-* pydicom
+* numpy - filtering with convolve arrays and math
+* scikit-image - draw lines using ski.draw.line_nd(E, D), image
+* matplotlib - plots
+* pydicom - extension of a file
+* cv2 - filtering with cv2.filter2D
+* ipywidgets - interact (slider)
 
 # Source image
 ![image](https://user-images.githubusercontent.com/44245185/226759448-4786b3ac-628b-4f64-8e74-3ee2b950f6ad.png)
