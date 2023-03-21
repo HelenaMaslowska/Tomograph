@@ -1,4 +1,4 @@
-# Tomograph
+# Tomograph experiment
 Hi! We created a project which explains how to convert image into a sinogram and vice versa with filtering, normalization and visualization. You can see the progress by moving the progress bar and saving to a DICOM file! [Here](https://github.com/HelenaMaslowska/Tomograph/blob/main/tk.ipynb) is a main code, enjoy!
 
 ## Used libraries
