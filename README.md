@@ -9,6 +9,14 @@ Hi! We created a project which explains how to convert image into a sinogram and
 * cv2 - filtering with cv2.filter2D
 * ipywidgets - interact (slider)
 
+## Slider
+One of the most interesting part of an experiment. Move progress bar to check how is Radon transform actually works! I wish I don't spoiler too much...
+![image](https://user-images.githubusercontent.com/44245185/226763895-f8976e3e-b6df-4909-b566-7bd1bd717af2.png)
+
+
+## Summary
+All the result of an experiment is summarized [here](https://github.com/HelenaMaslowska/Tomograph/blob/main/tk.ipynb) by MSE measure at the bottom of the page.
+
 # Source image
 ![image](https://user-images.githubusercontent.com/44245185/226759448-4786b3ac-628b-4f64-8e74-3ee2b950f6ad.png)
 
